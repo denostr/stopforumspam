@@ -1,0 +1,21 @@
+{
+    "name": "denostr/stopforumspam",
+    "description": "PHP Class for stopforumspam.com which can detect spammers",
+    "type": "library",
+    "keywords": ["stopforumspam", "api"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Denis Ostrovsky",
+            "email": "4deni.kiev@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "denostr\\stopforumspam\\": "src"
+        }
+    }
+}
