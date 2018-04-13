@@ -2,6 +2,11 @@
 
 Documentation: [stopforumspam.com/usage](https://stopforumspam.com/usage)
 
+[![Latest Stable Version](https://poser.pugx.org/denostr/stopforumspam/v/stable)](https://packagist.org/packages/denostr/stopforumspam)
+[![Total Downloads](https://poser.pugx.org/denostr/stopforumspam/downloads)](https://packagist.org/packages/denostr/stopforumspam)
+[![Latest Unstable Version](https://poser.pugx.org/denostr/stopforumspam/v/unstable)](https://packagist.org/packages/denostr/stopforumspam)
+[![License](https://poser.pugx.org/denostr/stopforumspam/license)](https://packagist.org/packages/denostr/stopforumspam)
+
 ## Installation
 
 The preferred way to install this extension is through [composer](https://getcomposer.org/).
