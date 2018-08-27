@@ -38,7 +38,7 @@ $client->email('mail@example.com')
 // Set response JSON format
 $client->format(denostr\stopforumspam\Client::FORMAT_JSON);
 
-$result = $client->request
+$result = $client->request();
 ```
 
 #### Set multiple params
